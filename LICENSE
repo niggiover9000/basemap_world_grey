@@ -1,0 +1,39 @@
+Nutzungsbedingungen und Quellenvermerk basemap.world
+1. Geltungsbereich
+• basemap.world Web Vektor
+2. Nutzungsbedingungen
+„Basemap.world ist ein Dienst, der geldleistungsfrei gemäß der Creative Commons
+Namensnennung 4.0 International Lizenz zur Verfügung gestellt wird. Daten, die unter der
+Lizenz CC BY 4.0 stehen, dürfen unter einer Namensnennung geteilt, vervielfältigt und
+bearbeitet werden. Die Namensnennung ist im Quellenvermerk enthalten. Der
+Quellenvermerk ist zu beachten.
+Der Dienst greift auf verschiedene Datenbanken zurück, die aus vorberechneten Kartenbildern
+bestehen (sog. Kachelarchive). Diese Datenbanken werden getrennt voneinander gehalten
+und im Kartenviewer des Nutzers gleichzeitig geladen.
+Das Kachelarchiv, das nur die Daten Deutschlands beinhaltet, ist mit dem Kachelarchiv der
+basemap.de gleich. Diese Daten werden unter den Nutzungsbedingungen von basemap.de
+<https://sgx.geodatenzentrum.de/web_public/gdz/lizenz/deu/Nutzungsbedingungen_base
+mapde.pdf> gemäß der CC BY 4.0 bzw. dl-de/by-2-0 international zur Verfügung gestellt.
+Das Kachelarchiv, das die Daten außerhalb Deutschlands ohne Flächenanteile von
+Deutschland enthält, beinhaltet Daten aus OpenStreetMap und Natural Earth. Diese Daten
+werden geldleistungsfrei gemäß der ODbL v. 1.0 zur Verfügung gestellt. In Bezug auf diese
+Datenbank ist neben dem Quellenvermerk die Verpflichtung zur Weitergabe unter gleichen
+Bedingungen zu beachten.“
+3. Quellenvermerk
+Der Quellenvermerk muss zusätzlich zur Angabe, wie der Lizenzgeber die Namensnennung für
+seinen Dienst verlangt, die Verwendung der beiden Datenbanken abbilden.
+„Der Lizenznehmer ist verpflichtet, bei jeder öffentlichen Wiedergabe, Verbreitung oder
+Präsentation der Daten sowie bei jeder Veröffentlichung oder externer Nutzung einer
+Bearbeitung oder Umgestaltung einen deutlich sichtbaren Quellenvermerk und
+Veränderungshinweis anzubringen, der wie folgt auszugestalten ist:
+AMTLICHES DEUTSCHES VERMESSUNGSW ESEN
+Bei der Darstellung auf einer Webseite sind "BKG" mit der URL "https://www.bkg.bund.de"
+und "CC BY 4.0" mit der URL "https://creativecommons.org/licenses/by/4.0/" zu verlinken.
+Quellenvermerk: © basemap.de / BKG (Jahr des letzten Datenbezugs) CC BY 4.0;
+Datenquellen: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs) CC BY 4.0 ; außerhalb
+Deutschlands: © Open Street Map Mitwirkende ODbL v. 1.0 ; © OpenMapTiles
+Aus Gründen des in der Kartendarstellung nur begrenzt verfügbaren Platzes kann der
+Quellenvermerk gekürzt und nach „Datenquellen:“ auf ein Datenquellendokument verlinkt
+werden, in dem die Quellen, die basemap.world verwendet, umfassend genannt sind. Ebenso
+gut können die Informationen auch auf einer separaten Internetseite vorgehalten und
+entsprechend verlinkt werden.
